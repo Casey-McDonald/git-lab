@@ -55,6 +55,13 @@ nothing added to commit but untracked files present (use "git add" to track)
 
    nothing to commit, working tree clean
 
-10.)
+10.)no nothing changed
+
+11.)No nothing changed, Everything up-to-date
+
+12.)updated Cs 2400, section 110
+
+13.)
+
 
    
