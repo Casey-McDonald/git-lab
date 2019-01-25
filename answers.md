@@ -61,7 +61,4 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 12.)updated Cs 2400, section 110
 
-13.)
-
-
-   
+13.).  ..  .git  .gitignore  README.md
